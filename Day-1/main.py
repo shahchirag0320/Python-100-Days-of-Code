@@ -1,2 +1,2 @@
-print("Hello World")
-print(5)
+print("Hello world")
+print(100)
